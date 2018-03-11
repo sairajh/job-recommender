@@ -1,0 +1,138 @@
+.active{
+	color: #66fcf1;
+}
+.col-sm-4{
+	background-color: black;
+}
+body{
+
+	background-color: #1f2833;
+	
+}
+.navbar{
+	border-radius: 0px;
+}
+.btn{ 
+	
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+   /* margin-left:80px;*/
+}
+h4{
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 150px;
+	font-size: 60px;
+	color: #66fcf1;
+	text-shadow: 2px 2px 10px #cccccc;
+}
+h6{
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 20px;
+	font-size: 20px;
+	color: #45a29e;
+	text-shadow: 1px 1px 10px #cccccc;
+}
+#uploader{
+	margin-top: 50px;
+	height: 50px;
+	width: 95%;
+	border-radius: 5px;
+	align-items: center;
+	justify-content: center;
+	vertical-align: middle;
+	position: absolute;
+
+}
+
+#button-push{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	
+	position: relative;
+
+	height: 50px;
+	width: 150px;
+	background-color: red;
+
+}
+
+.div-center {
+ 
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  color: #bfbfbf;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  display: table;
+}
+
+#button{
+	margin-left: 70px;
+	background-color: #ff3333;
+	color: #bfbfbf; 
+}
+p{
+	color: #cccccc;
+	margin-left: 10px;
+}
+
+#querty{
+	color: #cccccc;
+	margin-left: 10px;
+}
+
+#jobcard{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	border-radius: 3px;
+	border: 1px solid;
+	box-shadow: 3px 3px 10px #cccccc;
+	background-color: #3a4b5f;
+}
+
+h5{
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 150px;
+	font-size: 60px;
+	color: #66fcf1;
+}
+
+#location{
+	margin-left: 10px;
+	color: #cccccc;
+}
+
+#description{
+	margin-left: 10px;
+	color: #cccccc;
+}
+
+#salary{
+	margin-left: 10px;
+	color: #cccccc;
+}
+#applybutton{
+	margin-left: 10px;
+	width: 100px;
+	height: 50px;
+	margin-bottom: 10px;
+	display: inline-block;
+	background-color: #ff3333;
+	border: none;
+	color: #cccccc;
+
+}
+a{
+	text-align: center;
+}
