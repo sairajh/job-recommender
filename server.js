@@ -5,7 +5,7 @@ var app =   express();
 app.use(express.static(__dirname+'/public'));
 ////
 var PythonShell = require('python-shell');
-var pyshell = new PythonShell('testttt.py');
+var pyshell = new PythonShell('JobRecommender(1).py');
 
 pyshell.on('message', function (message) {
   // received a message sent from the Python script (a simple "print" statement)
